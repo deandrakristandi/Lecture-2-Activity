@@ -1,6 +1,6 @@
 name: Update HTML and README
 
-   on:
+on:
      push:
        branches: [main]
 
