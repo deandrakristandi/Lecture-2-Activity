@@ -4,10 +4,10 @@ on:
      push:
        branches: [main]
 
-   permissions:
+permissions:
      contents: write
 
-   jobs:
+jobs:
      update:
        runs-on: ubuntu-latest
        steps:
